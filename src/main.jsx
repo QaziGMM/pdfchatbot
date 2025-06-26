@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="/embed" element={<EmbedBot />} />
+        
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
